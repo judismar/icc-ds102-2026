@@ -1,0 +1,22 @@
+.cabecalho
+{
+   border: 5px double red;
+   text-align: center;
+   background-color: lightgreen;
+}
+
+.ocultar
+{
+    border: 10px outset purple;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.mostrar
+{
+    border: 10px outset red;
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
