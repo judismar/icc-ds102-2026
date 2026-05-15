@@ -1,0 +1,7 @@
+Trabalho:
+
+Criar a página principal de um aplicativo Web (a priori: html + css, mas com botões etc.) para uma gerente de banco.
+
+Ela precisa ser capaz de cadastrar, atualizar e excluir funcionários bancários, conceder aumentos nos salários, alternar turnos de funcionários (manhã, tarde e noite) e gerar relatório de funcionários.
+
+O estilo (CSS) pode estar além, mas não aquém do que foi ensinado: basta se basear nas aulas passadas, conforme pode ser visto em github.com/judismar/icc-ds102-2026. Se o professor julgar que está aquém, aos grupos podem contestar para fazê-lo mudar de opinião.
