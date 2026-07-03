@@ -1,4 +1,4 @@
-# Como usar os comandos do shell do Linux, com foco na primeira lista de exercícios
+# Como usar os comandos do shell do Linux
 
 ## Criar uma pasta para seu grupo
 mkdir grupo1
